@@ -4,6 +4,8 @@ The steps include
 Setting up colab runtime
 •
 Setup Configurations
+
+
 •Augmentation Functions
 •Create Custom Dataset
 •Load dataset into batches
