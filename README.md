@@ -1,5 +1,6 @@
 # Aerial-Image-Segmentation-with-PyTorch
 The steps include
+
 •Setting up colab runtime
 
 •Setup Configurations
